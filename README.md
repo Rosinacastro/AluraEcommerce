@@ -21,20 +21,6 @@ Com isso, ajudamos a entender oportunidades de **qual loja deve ser vendida**, *
 
 ---
 
-## 📊 Exemplos de Gráficos e Mapas
-
-### ✅ Gráfico de Dispersão
-Relação entre **distância (km)** e **preço da compra**:
-![Scatter exemplo](output/graficos/scatter_distancia_preco.png)
-
----
-
-### ✅ Heatmap com Folium
-Mapa interativo mostrando **concentração de entregas**:
-![Heatmap exemplo](output/mapas/heatmap_entregas.png)
-
----
-
 ## 🔍 Principais Insights
 
 - **A Loja 4 representa aproximadamente 23,57%** do faturamento total, sendo a menor participação entre as lojas.
